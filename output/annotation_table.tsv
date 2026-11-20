@@ -1,0 +1,11 @@
+rank	accession	description	subject_length	query_cover_pct	pct_identity	aln_length	n_hsps	evalue	bit_score	interpretation
+1	MH378443	Sinsheimervirus phiX174 strain evolved J1, complete genome	5386	100.0	100.0	800	1	0	1478.44	Near-identical (same species/strain)
+2	MH378442	Sinsheimervirus phiX174 strain evolved J2 line, complete genome	5386	100.0	100.0	800	1	0	1478.44	Near-identical (same species/strain)
+3	MH378441	Sinsheimervirus phiX174 strain evolved J3 line, complete genome	5386	100.0	100.0	800	1	0	1478.44	Near-identical (same species/strain)
+4	HM753706	Enterobacteria phage phiX174 isolate XC+mbD10im2, complete genome	5386	100.0	100.0	800	1	0	1478.44	Near-identical (same species/strain)
+5	HM753679	Enterobacteria phage phiX174 isolate XC+Mad14im2, complete genome	5386	100.0	100.0	800	1	0	1478.44	Near-identical (same species/strain)
+6	HM753673	Enterobacteria phage phiX174 isolate XC+Mad10im6, complete genome >gi|304442122|gb|HM753674.1| Enterobacteria phage phiX174 isolate XC+Mad10im7, complete genome	5386	100.0	100.0	800	1	0	1478.44	Near-identical (same species/strain)
+7	HM753703	Enterobacteria phage phiX174 isolate XC+Mbd10ic1, complete genome	5386	100.0	100.0	800	1	0	1478.44	Near-identical (same species/strain)
+8	HM753669	Enterobacteria phage phiX174 isolate XC+Mad10im1, complete genome	5386	100.0	100.0	800	1	0	1478.44	Near-identical (same species/strain)
+9	HM753704	Enterobacteria phage phiX174 isolate XC+Mbd10ic2, complete genome	5386	100.0	100.0	800	1	0	1478.44	Near-identical (same species/strain)
+10	HM753662	Enterobacteria phage phiX174 isolate XC+Mad06im6, complete genome	5386	100.0	100.0	800	1	0	1478.44	Near-identical (same species/strain)

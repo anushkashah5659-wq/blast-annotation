@@ -1,0 +1,12 @@
+{
+  "blast_program": "blastn",
+  "blast_version": "BLASTN 2.17.0+",
+  "database_searched": "core_nt",
+  "query_length": 800,
+  "evalue_threshold_used": "1e-05",
+  "gap_open": "0",
+  "gap_extend": "0",
+  "filter": "L;m;",
+  "match_score": "1",
+  "mismatch_score": "-2"
+}

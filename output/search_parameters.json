@@ -1,0 +1,10 @@
+{
+  "query_id": "NC_001422.1:1-800",
+  "query_length": 800,
+  "program": "blastn",
+  "database": "nt",
+  "evalue_threshold": 1e-05,
+  "max_hits": 25,
+  "megablast": true,
+  "run_date_utc": "2026-11-20 09:35:17"
+}
